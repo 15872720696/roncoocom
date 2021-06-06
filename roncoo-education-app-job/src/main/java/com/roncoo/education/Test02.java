@@ -1,4 +1,4 @@
 package com.roncoo.education;
 
-public class Test01 {
+public class Test02 {
 }
